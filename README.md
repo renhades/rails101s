@@ -12,3 +12,10 @@
 - front-end
 - data validation
 
+## 實作基本 CRUD 的文章 (post)
+
+- Posts in group
+- URL like: /group/1/post/1
+- Data validation
+- Use before_action to reuse code
+
